@@ -1,2 +1,2 @@
 # Codes
-Codes written and executed my me successfully
+Codes written and executed by my me successfully
