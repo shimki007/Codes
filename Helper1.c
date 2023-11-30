@@ -1,0 +1,1 @@
+static int no = 21;     //error code to see error(static)
